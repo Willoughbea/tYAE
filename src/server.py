@@ -13,7 +13,7 @@ def check_video():
     # Checks if "AI" is in the title
     is_ai = "ai" in title.lower()
     
-    # check sound
+    # check sound.venv
 
     # check video
 
